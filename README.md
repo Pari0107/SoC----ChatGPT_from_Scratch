@@ -1,1 +1,1 @@
-# SoC----ChatGPT_from_Scratch
+# SoC_ChatGPT_from_Scratch
